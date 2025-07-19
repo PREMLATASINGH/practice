@@ -1,0 +1,44 @@
+/*body{
+    background-color: aqua;
+
+}*/
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(mom.JPG);
+  background-size: cover;         /* scales the image to cover entire area */
+  background-position: center;    /* centers the image */
+  background-repeat: no-repeat;   /* prevents tiling */
+  height: 100vh;                  /* ensures body covers the full viewport height */
+}
+
+p{
+    background-color: beige;
+    text-align: center;
+}
+h1{
+    background-color: black;
+    text-align: center;
+    color:aliceblue;
+    width:1000px;
+    padding: auto;
+    margin: 50px;
+}
+/*div{
+    background-color: red;
+    color:black;
+    border-radius: 10px;
+
+}*/
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+div{
+    border: 100%;
+    align-content:end;
+}
+h2{
+    text-align: center;
+}
