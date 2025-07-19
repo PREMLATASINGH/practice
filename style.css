@@ -5,7 +5,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-image: url(mom.JPG);
+  background-image: url(back.png);
   background-size: cover;         /* scales the image to cover entire area */
   background-position: center;    /* centers the image */
   background-repeat: no-repeat;   /* prevents tiling */
@@ -42,4 +42,14 @@ div{
 }
 h2{
     text-align: center;
+    margin: 80;
 }
+h3{
+    text-align: center;
+    margin: 80;
+}
+h4{
+    text-align: center;
+    margin: 80;
+}
+
